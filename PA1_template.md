@@ -5,6 +5,8 @@ date: "20 de marzo de 2019"
 output: html_document
 ---
 
+[RepData_PeerAssessment1](http://htmlpreview.github.io/?https://github.com/oscaramtz/RepData_PeerAssessment1/blob/master/PA1_template.html)
+
 ```{R, echo=FALSE}
 download.file("https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip", destfile = "repdata data activity.zip")
 unzip("./repdata data activity.zip", exdir = "./data")
