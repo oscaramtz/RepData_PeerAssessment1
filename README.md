@@ -128,7 +128,7 @@ the dataset with the filled-in missing values for this part.
 
 ![Sample panel plot](instructions_fig/Plot 1.png)
 
-![Sample panel plot](RepData_PeerAssessment1/instructions_fig/Plot 4.png) 
+![Sample panel plot](https://raw.githubusercontent.com/oscaramtz/RepData_PeerAssessment1/master/instructions_fig/Plot%204.png) 
 
 
 **Your plot will look different from the one above** because you will
