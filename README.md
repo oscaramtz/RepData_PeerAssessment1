@@ -126,7 +126,11 @@ the dataset with the filled-in missing values for this part.
 
 1. Make a panel plot containing a time series plot (i.e. `type = "l"`) of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis). The plot should look something like the following, which was created using **simulated data**:
 
-![Sample panel plot](instructions_fig/Plot 1.png)
+![Sample panel plot](https://raw.githubusercontent.com/oscaramtz/RepData_PeerAssessment1/master/instructions_fig/Plot%201.png)
+
+![Sample panel plot](https://raw.githubusercontent.com/oscaramtz/RepData_PeerAssessment1/master/instructions_fig/Plot%202.png)
+
+![Sample panel plot](https://raw.githubusercontent.com/oscaramtz/RepData_PeerAssessment1/master/instructions_fig/Plot%203.png)
 
 ![Sample panel plot](https://raw.githubusercontent.com/oscaramtz/RepData_PeerAssessment1/master/instructions_fig/Plot%204.png) 
 
@@ -163,10 +167,10 @@ in GitHub by doing the following:
 
 3. You will see a list of commits that you have made to this repository. The most recent commit is at the very top. If this represents the version of the files you want to submit, then just click the "copy to clipboard" button on the right hand side that should appear when you hover over the SHA-1 hash. Paste this SHA-1 hash into the course web site when you submit your assignment. If you don't want to use the most recent commit, then go down and find the commit you want and copy the SHA-1 hash.
 
-A valid submission will look something like (this is just an **example**!)
+A valid submission will look something like
 
 ```r
-https://github.com/rdpeng/RepData_PeerAssessment1
+https://github.com/oscaramtz/RepData_PeerAssessment1
 
 7c376cc5447f11537f8740af8e07d6facc3d9645
 ```
