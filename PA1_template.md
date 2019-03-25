@@ -91,7 +91,7 @@ ggplot(meanIntervalSteps, aes(x = time, y = steps)) +
   theme(plot.title = element_text(hjust = 0.5, size = 16))
 ```
 
-
+![Plot 2](https://github.com/oscaramtz/RepData_PeerAssessment1/blob/master/instructions_fig/Plot%202.png)
 
 ## Imputing missing values
 
@@ -132,7 +132,7 @@ text(c(23000,22600),c(30,28), c(
   sprintf("Mean = %.3f", mean(NAImputeddailySteps[, 2])),
   sprintf("Median = %.0f", median(NAImputeddailySteps[, 2]))))
 ```
-
+![Plot 3](https://github.com/oscaramtz/RepData_PeerAssessment1/blob/master/instructions_fig/Plot%203.png)
 
 
 ## Are there differences in activity patterns between weekdays and weekends?
@@ -187,3 +187,4 @@ xyplot(fixedsteps~interval|weekday,
        )
 
 ```
+![Plot 4](https://github.com/oscaramtz/RepData_PeerAssessment1/blob/master/instructions_fig/Plot%204.png)
