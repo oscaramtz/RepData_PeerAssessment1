@@ -59,6 +59,7 @@ text(c(22000,21690),
      c(sprintf("Mean = %.3f", mean(dailySteps[, 2])),
        sprintf("Median = %.0f", median(dailySteps[, 2]))))
 ```
+[Plot 1](RepData_PeerAssessment1/instructions_fig/Plot 1.png)
 
 
 ## What is the average daily activity pattern?
